@@ -15,7 +15,7 @@
    A Gradle Wrapper allows anybody to work on your project without having to install Gradle. It ensures that the right version of Gradle that the build was designed for is shipped as part of this project repository. First clone the sample repository that includes both the dummy provider and the dummy consumer:
 
 ```
-git clone 
+git clone http://mekak2@vstash:7990/scm/ta/consumerdrivencontracts.git
 
 ```
 
