@@ -4,9 +4,9 @@
 #Introduction
 
    
-   In this example, we will write a Consumer Driven Contract Test between a Gradle Spring Boot dummy provider (RESTful Web Service) and a Gradle dummy consumer.
+   In this example, we have a Consumer Driven Contract Test between a Gradle Spring Boot dummy provider (RESTful Web Service) and a Gradle dummy consumer.
 
-   We will make use of Pact-JVM, which will provide a mock service for the consumer project to generate a Pact, and verification ability for the provider project to verify the Pact.
+   We  make use of Pact-JVM, which will provide a mock service for the consumer project to generate a Pact, and verification ability for the provider project to verify the Pact.
 
 #Installation
 
